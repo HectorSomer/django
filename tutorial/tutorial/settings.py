@@ -135,7 +135,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [
     BASE_DIR /"static",
-    "C:\Users\hecso\Desktop\UP\actividad_django\django_page_web\tutorial\tutorial\static"
+    "C:\Users\hecso\Desktop\UP\actividad_django\django_page_web\tutorial"
 ]
 
 # Default primary key field type
